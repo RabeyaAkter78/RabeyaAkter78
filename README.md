@@ -20,5 +20,5 @@ Hi! I'm Rabeya Akter, a passionate Tech Enthusiast with a love for technology, c
 - Firebase
   
 <br>
-🔭 I’m currently working In Desh Polytechnic College As an Instructor in the Computer Department. 
+🔭 I’m currently working In Desh Polytechnic College As an Instructor of Computer Department. 
 
