@@ -14,7 +14,9 @@ Hi! I'm Rabeya Akter, a passionate Tech Enthusiast with a love for technology, c
 - BootStrap
 - Tailwind css
 - javascript
-- React
+- React js
+- Next js
+- Redux
 - MongoDB
 - Express js
 - Node js
@@ -22,5 +24,5 @@ Hi! I'm Rabeya Akter, a passionate Tech Enthusiast with a love for technology, c
 
 
 <hr>
-🔭 I’m currently working In Desh Polytechnic College As an Instructor of Computer Department. 
+🔭 I’m currently working In bd Calling IT Ltd As an Frontend web developer. 
 
