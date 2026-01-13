@@ -1,7 +1,7 @@
 # Hi, I'm Rabeya Akter 👋  
 ### Passionate Frontend Developer | Problem Solver | Tech Enthusiast  
 
-I'm a **Frontend Web Developer** with a deep passion for building **scalable, user-friendly, and high-performance** applications. I love turning ideas into functional and visually appealing digital experiences. Currently, I’m working at **BD Calling IT Ltd**, where I focus on crafting responsive, interactive, and accessible web applications.  
+I'm a **Frontend Web Developer** with a deep passion for building **scalable, user-friendly, and high-performance** applications. I love turning ideas into functional and visually appealing digital experiences. Currently, I’m working at **SparkTech Agency**, where I focus on crafting responsive, interactive, and accessible web applications.  
 
 I thrive on learning new technologies, optimizing performance, and creating intuitive user interfaces. My expertise includes **Next.js, React Js, Typescript, Tailwind CSS, Redux Toolkit, RTK Query, Ant Design, ShadCN**, and more. I'm also exploring **backend development with Node.js, Express, MongoDB**, and integrating real-time features using **Socket.IO**.  
 
