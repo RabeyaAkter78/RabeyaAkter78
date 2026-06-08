@@ -1,5 +1,5 @@
 # Hi, I'm Rabeya Akter 👋  
-### Frontend Developer | Next JS & REact JS Specialist | MERN STack Developer | Problem Solver | Tech Enthusiast  
+### Frontend Developer | Next JS & React JS Specialist | MERN STack Developer | Problem Solver | Tech Enthusiast  
 
 I'm a **Frontend Web Developer with 2 Years + Experience** with a deep passion for building **scalable, user-friendly, and high-performance** applications. I love turning ideas into functional and visually appealing digital experiences. Currently, I’m working at **SparkTech Agency**, where I focus on crafting responsive, interactive, and accessible web applications.  
 
