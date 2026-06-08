@@ -1,9 +1,9 @@
 # Hi, I'm Rabeya Akter 👋  
-### Passionate Frontend Developer | Problem Solver | Tech Enthusiast  
+### Frontend Developer | Next JS & REact JS Specialist | MERN STack Developer | Problem Solver | Tech Enthusiast  
 
-I'm a **Frontend Web Developer** with a deep passion for building **scalable, user-friendly, and high-performance** applications. I love turning ideas into functional and visually appealing digital experiences. Currently, I’m working at **SparkTech Agency**, where I focus on crafting responsive, interactive, and accessible web applications.  
+I'm a **Frontend Web Developer with 2 Years + Experience** with a deep passion for building **scalable, user-friendly, and high-performance** applications. I love turning ideas into functional and visually appealing digital experiences. Currently, I’m working at **SparkTech Agency**, where I focus on crafting responsive, interactive, and accessible web applications.  
 
-I thrive on learning new technologies, optimizing performance, and creating intuitive user interfaces. My expertise includes **Next.js, React Js, Typescript, Tailwind CSS, Redux Toolkit, RTK Query, Ant Design, ShadCN**, and more. I'm also exploring **backend development with Node.js, Express, MongoDB**, and integrating real-time features using **Socket.IO**.  
+I thrive on learning new technologies, optimizing performance, and creating intuitive user interfaces. My expertise includes **Next.js, React Js, Typescript, Tailwind CSS, Redux Toolkit, RTK Query, Ant Design, ShadCN**, and more. I'm also Working with **backend development with Node.js, Express, MongoDB**, and integrating real-time features using **Socket.IO**.  
 
 ---
 
@@ -29,7 +29,7 @@ I thrive on learning new technologies, optimizing performance, and creating intu
 ---
 
 ## 🌟 My Current Role  
-### **Frontend Web Developer @ BD Calling IT Ltd**  
+### **Frontend Web Developer @ SparkTech Agency**  
 - Developing dynamic, high-performance web applications.  
 - Building reusable components and ensuring UI consistency.  
 - Integrating APIs and optimizing frontend performance.  
